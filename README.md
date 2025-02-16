@@ -1,5 +1,7 @@
 # oh-my-GAN
 
+![](https://blogs-images.forbes.com/startswithabang/files/2018/03/leinie.gif)
+
 ---
 
 **Co-Creating Reality with the Quantum Field: A Simple Exploration**  
