@@ -4,7 +4,7 @@
 
 ---
 
-**Co-Creating Reality**  
+**Life is like a GAN: Co-Creating Reality**  
    
 **Introduction**  
    
