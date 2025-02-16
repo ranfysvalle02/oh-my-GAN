@@ -4,8 +4,19 @@
 
 ---
 
-**Life is like a GAN: Co-Creating Reality**  
-   
+# **Life is like a GAN: Co-Creating Reality**  
+
+## What Are GANs?
+
+Generative Adversarial Networks, or GANs, are one of the most exciting developments in the field of machine learning. Introduced by Ian Goodfellow and his team in 2014, GANs consist of two neural networks—the **Generator** and the **Discriminator**—that engage in a friendly competition:
+
+- **Generator**: Think of it as an artist, creating images from scratch based on random noise.
+- **Discriminator**: Acts like an art critic, evaluating whether the images are real (from the dataset) or fake (created by the generator).
+
+This back-and-forth pushes both networks to improve continuously, resulting in the generator producing increasingly realistic images over time.
+
+**[Learn more about GANs](https://github.com/ranfysvalle02/learning-GAN)**
+
 **Introduction**  
    
 Have you ever imagined that you're not just observing the universe but actively shaping it? Consider the idea that we're co-creators and co-interpreters of reality alongside an infinite intelligence—the quantum field. This concept suggests that we work together with the fundamental forces of the universe to create and understand everything around us.   
