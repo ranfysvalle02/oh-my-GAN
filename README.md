@@ -1,6 +1,6 @@
 # oh-my-GAN
 
-![](https://blogs-images.forbes.com/startswithabang/files/2018/03/leinie.gif)
+![](https://caltechsites-prod.s3.amazonaws.com/scienceexchange/images/Quantum_Physics-HeaderImage-F.2e16d0ba.fill-933x525-c100.jpg)
 
 ---
 
@@ -355,6 +355,8 @@ if __name__ == '__main__':
 ---  
 
 ## APPENDIX
+
+![](https://blogs-images.forbes.com/startswithabang/files/2018/03/leinie.gif)
 
 **Empty Space Isn't Really Empty: The Heisenberg Uncertainty Principle and Quantum Fluctuations**  
    
