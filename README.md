@@ -4,7 +4,7 @@
 
 ---
 
-**Co-Creating Reality with the Quantum Field: A Simple Exploration**  
+**Co-Creating Reality**  
    
 **Introduction**  
    
